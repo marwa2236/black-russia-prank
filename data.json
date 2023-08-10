@@ -1,53 +1,58 @@
 {"ads":{
+  
 
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_reward":"Rewarded_Android",
+"unity_gameid":"5082535",
+ 
 
-  "unity_inter":"Interstitial_Android",
-  "unity_banner":"Banner_Android",
-  "unity_reward":"Rewarded_Android",
-  "unity_gameid":"5082535",
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
 
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
 
-  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
-
-  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
-  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-  "admob_native":"ca-app-pub-3940256099942544/2247696110",
-  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-
-
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
-
-  "vungle_appid":"645e64defe20a95ccb12bd7b ",
-  "vungle_inter":"INTER-5944534",
-  "vungle_banner":"DEFAULTBANNER-5844358",
-  "vungle_reward":"REWARD-7025613",
-
-
-
-  "download_dialog_txt":"download text from server",
-  "banner_network_choice":"vungle",
-  "interstisial_network_choice":"vungle",
-  "reward_network_choice":"vungle",
-  "native_network_choice":"admob"
-
+"download_dialog_txt":"download text from server",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
+"native_network_choice":"admob"
+  
 
 },
   "my_data":[
-    {"desc1":"In recent years, the term Black Russia Prank has gained traction and notoriety due to its association with a controversial internet trend. While pranks and challenges have long been a part of online culture, this particular prank has raised concerns over cultural insensitivity and the potential harm it may cause. In this article, we will delve into the origins of the Black Russia Prank, its impact on individuals and communities, and the need for responsible online behavior."},
-    {"desc2":"The Black Russia Prank is an internet trend that involves individuals, usually from non-Russian backgrounds, posting images or videos of themselves wearing dark makeup to appear as if they are of African or African-American descent. They often caption these posts with phrases like I am from Black Russia or Greetings from Russia."},
-    {"desc3":"The trend's name is derived from the combination of the term Black signifying African or African-American heritage and Russia, referring to the country that these individuals claim to represent in their posts."},
-    {"desc4":"The exact origins of the Black Russia Prank are unclear, but it gained popularity on social media platforms such as Instagram, Twitter, and TikTok. While some participants claim that their intention is harmless fun or satire, the prank has been met with widespread criticism for several reasons:"},
-    {"desc5":"Cultural Insensitivity: The Black Russia Prank is seen as culturally insensitive and offensive as it perpetuates harmful stereotypes about people of African descent and reinforces the notion that blackness is a costume or joke."},
-    {"desc6":"Disregard for Real Experiences: By trivializing racial identity and experiences, the prank dismisses the struggles and discrimination faced by individuals from African or African-American backgrounds."},
-    {"desc7":"Impact on Black Communities: The Black Russia Prank can have a negative emotional impact on members of black communities who may find the trend hurtful and demeaning."},
-    {"descd":"As internet trends and challenges continue to emerge and spread rapidly, it is crucial for individuals to be mindful of the potential consequences of their actions. Promoting responsible online behavior is essential to foster a safe and inclusive online environment for all users."}
-  ]
-
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   ]
+ 
 }
+   
